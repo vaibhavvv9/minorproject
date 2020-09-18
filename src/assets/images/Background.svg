@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Background" transform="translate(-24.601 -216.043)">
+    <g id="Ellipse_123" data-name="Ellipse 123" transform="translate(24.6 216.043)" fill="none" stroke="#8782d9" stroke-width="1">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="3" fill="none"/>
+    </g>
+    <circle id="Ellipse_128" data-name="Ellipse 128" cx="3.5" cy="3.5" r="3.5" transform="translate(24.6 224.043)" fill="#8782d9"/>
+    <circle id="Ellipse_131" data-name="Ellipse 131" cx="3.5" cy="3.5" r="3.5" transform="translate(24.6 232.043)" fill="#8782d9"/>
+    <circle id="Ellipse_124" data-name="Ellipse 124" cx="3.5" cy="3.5" r="3.5" transform="translate(32.6 216.043)" fill="#8782d9"/>
+    <g id="Ellipse_127" data-name="Ellipse 127" transform="translate(32.6 224.043)" fill="none" stroke="#8782d9" stroke-width="1">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="3" fill="none"/>
+    </g>
+    <circle id="Ellipse_130" data-name="Ellipse 130" cx="3.5" cy="3.5" r="3.5" transform="translate(32.6 232.043)" fill="#8782d9"/>
+    <g id="Path_1139" data-name="Path 1139" transform="translate(40.6 216.043)" fill="none">
+      <path d="M3.5,0A3.5,3.5,0,1,1,0,3.5,3.5,3.5,0,0,1,3.5,0Z" stroke="none"/>
+      <path d="M 3.5 1 C 2.121500015258789 1 1 2.121500015258789 1 3.5 C 1 4.878499984741211 2.121500015258789 6 3.5 6 C 4.878499984741211 6 6 4.878499984741211 6 3.5 C 6 2.121500015258789 4.878499984741211 1 3.5 1 M 3.5 0 C 5.433000087738037 0 7 1.566999912261963 7 3.5 C 7 5.433000087738037 5.433000087738037 7 3.5 7 C 1.566999912261963 7 0 5.433000087738037 0 3.5 C 0 1.566999912261963 1.566999912261963 0 3.5 0 Z" stroke="none" fill="#8782d9"/>
+    </g>
+    <circle id="Ellipse_126" data-name="Ellipse 126" cx="3.5" cy="3.5" r="3.5" transform="translate(40.6 224.043)" fill="#8782d9"/>
+    <circle id="Ellipse_129" data-name="Ellipse 129" cx="3.5" cy="3.5" r="3.5" transform="translate(40.6 232.043)" fill="#8782d9"/>
+  </g>
+</svg>
